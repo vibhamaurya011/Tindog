@@ -12,6 +12,10 @@
 
 /* SECTION 1 */
 
+.nav-link{
+    font-weight: bold;
+}
+
 .Section1{
     width: 100%;
     background-color: var(--major-color);
